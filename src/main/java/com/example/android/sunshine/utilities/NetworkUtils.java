@@ -41,7 +41,7 @@ public final class NetworkUtils {
     private static final String FORECAST_QUERY_BASE_URL = "http://api.openweathermap.org/data/2.5/forecast";
     private static final String FORECAST_COORD_BASE_URL = "https://api.openweathermap.org/data/2.5/onecall";
 
-    private static final String API_KEY = "fbea738c9a1bf72c2d1a29fdaa2a304a";
+    private static final String API_KEY = "ur api key";
 
 
 
